@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Deivid</h1>
+<h3 align="center">I'm learning JavaScript</h3>
 
-<!--
-**Deividev365/Deividev365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [Rocketseat](github.com/Rocketseat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [mayk.brito.net.br](mayk.brito.net.br)
+
+- ▶️ I started a channel for begginers at coding [youtube.com/jovemCode](https://www.youtube.com/channel/UCve39Q8xXu8uwrLekrQmWcA)
+
+- 💬 Ask me about **Technology, Movies, lifestyle, books, economy, science...**
+
+- 📫 How to reach me **deividalmeida365@gmail.com**
+
+
