@@ -5,7 +5,7 @@
 
 - 👨‍💻 My portfolio is available at []()
 
-- ▶️ I started a channel to teach begginers learn how to code [youtube.com/jovemCode](https://www.youtube.com/channel/UCve39Q8xXu8uwrLekrQmWcA)
+- ▶️ I started a channel to teach begginers how to code [youtube.com/jovemCode](https://www.youtube.com/channel/UCve39Q8xXu8uwrLekrQmWcA)
 
 - 💬 Ask me about **Technology, Movies, series, lifestyle, books, economy, science...**
 
