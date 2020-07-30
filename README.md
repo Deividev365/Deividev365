@@ -3,7 +3,7 @@
 
 
 
-  👨‍💻 My portfolio is available at []()
+- 👨‍💻 My portfolio is available at []()
 
 - ▶️ I started a channel to teach begginers how to code [youtube.com/jovemCode](https://www.youtube.com/channel/UCve39Q8xXu8uwrLekrQmWcA)
 
