@@ -7,12 +7,12 @@
 
 - 💬 Ask me about **Technology, Movies, series, lifestyle, books, economy, science...**
 
-<p align="center">You can find me here</p>
 
 <p align="center">
    <a href="@deividalmeida365@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="deividAlmeida" height="30" width="30" /></a>
+     <a href="https://www.linkedin.com/in/deivid-almeida-378ab9191/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deividAlmeida" height="30" width="30" /></a>
   <a href="https://www.youtube.com/channel/UCve39Q8xXu8uwrLekrQmWcA?view_as=subscriber" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="infinitegeek" height="30" width="30" /></a>
-  <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deividAlmeida" height="30" width="30" /></a>
+
 
 
 </p>
