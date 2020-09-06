@@ -3,10 +3,6 @@
 
 
 
-- ▶️ I started a channel to teach begginers how to code [youtube.com/jovemCode](https://www.youtube.com/channel/UCve39Q8xXu8uwrLekrQmWcA)
-
-- 💬 Ask me about **Technology, Movies, series, lifestyle, books, economy, science...**
-
 
 <p align="center">
     <a href="https://www.linkedin.com/in/deivid-almeida-378ab9191/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="deividAlmeida" height="30" width="30" /></a>
