@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Deivid</h1>
-<h3 align="center">Learning the stack: JS | Node | React |   React Native</h3>
+<h1 align="center">Hi there, I'm Deivid</h1>
+<h3 align="center"> I'm Learning the stack: JS | Node.js | React.js </h3>
 
 
 
