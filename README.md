@@ -7,8 +7,8 @@
   "job":      "Arquitetura Corporativa & Developer",
   "country":  "Brazil",
   "city":     "Arujá (SP)",
-  "stack":    ["..."],
-  "interest": ["..."], 
+  "stack":    ["Front-End", "Back-End"],
+  "interest": ["JavaScript"], 
 }
 ```
 
