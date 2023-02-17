@@ -8,6 +8,6 @@
   "country":  "Brazil",
   "city":     "Arujá",
   "stack":    ["Front-End", "Back-End"],
-  "interest":   "interest": ["Python", "SQL", "JavaScript", "Java" "React.JS", "Azure", "AWS", "GCP"]
+  "interest": ["Python", "SQL", "JavaScript", "Java" "React.JS", "Azure", "AWS", "GCP"]
 }
 ```
