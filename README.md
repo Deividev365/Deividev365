@@ -4,7 +4,7 @@
 
 ```json
 {
-  "job":      "Analista de Dados / Software Developer",
+  "job":      "Data Analyst / Software Developer",
   "country":  "Brazil",
   "city":     "Arujá",
   "stack":    ["Front-End", "Back-End"],
