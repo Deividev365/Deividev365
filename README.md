@@ -7,7 +7,6 @@
   "job":      "Data Analyst / Software Developer",
   "country":  "Brazil",
   "city":     "Arujá",
-  "stack":    ["Front-End", "Back-End"],
-  "interest": ["Python", "SQL", "JavaScript", "Java" "React.JS", "Azure", "AWS", "GCP"]
+  "interest": ["Python", "SQL", "JavaScript", "Ruby", "Azure", "AWS", "GCP"]
 }
 ```
