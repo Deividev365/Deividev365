@@ -4,9 +4,9 @@
 
 ```json
 {
-  "job":      "Data Analyst / Software Developer",
+  "job":      "Software Developer/ Data Analyst",
   "country":  "Brazil",
   "city":     "Arujá",
-  "interest": ["Python", "SQL", "JavaScript", "Ruby", "Azure", "AWS", "GCP"]
+  "interest": ["Python", "SQL", "JavaScript", "Ruby", "Rails", "GPT", "Azure", "AWS", "GCP"]
 }
 ```
